@@ -1,0 +1,26 @@
+{
+  "name": "medium-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "advancedCrawler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lorna56/medium-crawler.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Lorna56/medium-crawler/issues"
+  },
+  "homepage": "https://github.com/Lorna56/medium-crawler#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cheerio": "^1.1.2",
+    "rss-parser": "^3.13.0"
+  }
+}
